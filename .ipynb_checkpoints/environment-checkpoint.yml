@@ -1,4 +1,4 @@
-name: REU2025
+name: REU2025_py39
 channels:
   - defaults
   - conda-forge
